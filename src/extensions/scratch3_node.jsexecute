@@ -1,0 +1,16 @@
+<category name="Node.js 🥭" colour="#68A063">
+    <block type="node_runCode">
+        <value name="CODE">
+            <shadow type="text">
+                <field name="TEXT">console.log("Hello from Node!");</field>
+            </shadow>
+        </value>
+    </block>
+    <block type="node_evalReporter">
+        <value name="CODE">
+            <shadow type="text">
+                <field name="TEXT">Math.random() * 100</field>
+            </shadow>
+        </value>
+    </block>
+</category>
